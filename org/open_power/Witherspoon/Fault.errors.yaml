@@ -1,0 +1,15 @@
+- name: HDDErrorCode0
+  description: CPLD's error reason is HDD_0 fail
+  
+- name: HDDErrorCode1
+  description: CPLD's error reason is HDD_1 fail
+
+- name: HDDRebuildCode0
+  description: HDD_0 or HDD_1 ends to rebuild
+
+- name: HDDRebuildCode1
+  description: HDD_0 starts to rebuild
+
+- name: HDDRebuildCode2
+  description: HDD_1 starts to rebuild
+

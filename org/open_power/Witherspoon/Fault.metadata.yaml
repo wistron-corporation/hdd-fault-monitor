@@ -1,0 +1,14 @@
+- name: HDDErrorCode0
+  level: ERR
+
+- name: HDDErrorCode1
+  level: ERR
+
+- name: HDDRebuildCode0
+  level: INFO
+
+- name: HDDRebuildCode1
+  level: INFO
+
+- name: HDDRebuildCode2
+  level: INFO
